@@ -82,7 +82,7 @@
         } else {
             setTimeout(function() {
                 count($this)
-            }, 30);
+            }, 80);
         }
     }
     $(".stat_count, .stat_count_download").each(function() {

@@ -3872,7 +3872,9 @@ a.link-style3 {
 }
 
 
-
+.half-space {
+        line-height: 1.1em; /* Adjust the value as needed */
+    }
 
 
 
